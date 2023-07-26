@@ -1,0 +1,10 @@
+data文件夹：MNIST数据集
+demo文件夹：存放最终实现效果的程序demo视频
+image_preprocess.py：图像预处理程序
+LeNET_training.py：LeNET神经网络，用于模型训练
+model_training.py：一个简单的2层线性分类器
+number_ocr.py：数字识别测试程序（主程序）
+socket_cli.py：客户端
+socket_serv：服务器
+UI_CamDataTool.py：UI界面前端代码
+UI_CamDataTool.ui：UI界面前端代码生成源码（Qt格式）
